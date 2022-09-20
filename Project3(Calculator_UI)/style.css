@@ -3,7 +3,8 @@ body{
 }
 table{
     margin:110px 50px 30px 500px;
-    background-color: rgb(47, 70, 47);
+    background-color: rgb(26, 89, 225);
+      border-radius: 20px;
     
 }
 table,td {
@@ -12,8 +13,8 @@ table,td {
      }
 td{
     height:60px;
-    width:60px;
-    
+    width:120px;
+    border-radius: 20px;
 }
 #calc{
  width: 250px;
