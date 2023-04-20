@@ -53,3 +53,44 @@ table{
         margin-left:190px;
     }
     }
+
+    #output {
+        font-size: 24px;
+        font-weight: bold;
+        margin-top: 20px;
+    }
+
+
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f2f2f2;
+        color: #333;
+    }
+    h1, p {
+        text-align: center;
+    }
+    input[type="text"] {
+        font-size: 24px;
+        padding: 10px;
+        margin: 10px auto;
+        display: block;
+    }
+    #result {
+        font-size: 24px;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 20px;
+    }
+    button[type="submit"] {
+        font-size: 24px;
+        color: #0062cc;
+        padding: 10px 20px;
+        margin: 10px auto;
+        display: block;
+        /* background-color: #007bff; */
+        /* color: #fff; */
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    
